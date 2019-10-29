@@ -7,4 +7,4 @@ protected_orgs:
 - redis-test-ORG*
 - appdynamics-org
 - credhub-service-broker-org
-- test-org
+
