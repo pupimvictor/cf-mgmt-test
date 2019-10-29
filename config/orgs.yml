@@ -1,4 +1,4 @@
-orgs: []
+orgs: [test-org, cfdev-org]
 enable-delete-orgs: true
 protected_orgs:
 - system
