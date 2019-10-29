@@ -1,4 +1,4 @@
-orgs: [test-org]
+orgs: []
 enable-delete-orgs: true
 protected_orgs:
 - system
