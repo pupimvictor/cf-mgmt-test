@@ -1,6 +1,5 @@
 orgs:
 - cfdev-org
-- test-org
 enable-delete-orgs: true
 protected_orgs:
 - system
