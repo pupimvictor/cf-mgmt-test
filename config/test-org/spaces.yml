@@ -1,3 +1,4 @@
 org: test-org
-spaces: []
+spaces:
+- test-space
 enable-delete-spaces: true

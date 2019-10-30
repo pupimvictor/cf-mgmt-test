@@ -2,12 +2,14 @@ org: test-org
 space: test-space
 space-developer:
   ldap_users: []
-  users: []
+  users:
+  - admin
   saml_users: []
   ldap_groups: []
 space-manager:
   ldap_users: []
-  users: []
+  users:
+  - admin
   saml_users: []
   ldap_groups: []
 space-auditor:
@@ -15,11 +17,11 @@ space-auditor:
   users: []
   saml_users: []
   ldap_groups: []
-allow-ssh: false
+allow-ssh: true
 enable-space-quota: false
 enable-security-group: false
-enable-unassign-security-group: false
-enable-remove-users: true
+enable-unassign-security-group: true
+enable-remove-users: false
 isolation_segment: ""
 named-security-groups: []
 named_quota: ""

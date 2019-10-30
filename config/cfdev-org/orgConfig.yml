@@ -15,13 +15,11 @@ org-auditor:
   saml_users: []
   ldap_groups: []
 private-domains: []
-enable-remove-private-domains: true
+enable-remove-private-domains: false
 shared-private-domains: []
-enable-remove-shared-private-domains: true
+enable-remove-shared-private-domains: false
 enable-org-quota: false
-enable-remove-users: true
+enable-remove-users: false
 default_isolation_segment: ""
-named_quota: ""
-metadata:
-  annotations: {}
-  labels: {}
+named_quota: default
+metadata: null

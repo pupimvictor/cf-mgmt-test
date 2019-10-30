@@ -1,3 +1,4 @@
 org: cfdev-org
-spaces: []
+spaces:
+- cfdev-space
 enable-delete-spaces: true

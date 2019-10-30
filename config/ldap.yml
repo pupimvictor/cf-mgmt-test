@@ -10,6 +10,6 @@ userObjectClass: ""
 groupSearchBase: ""
 groupAttribute: ""
 groupObjectClass: ""
-origin: ldap
+origin: uaa
 insecure_skip_verify: ""
 ca_cert: ""
