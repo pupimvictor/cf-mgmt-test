@@ -17,7 +17,7 @@ space-auditor:
   users: []
   saml_users: []
   ldap_groups: []
-allow-ssh: true
+allow-ssh: false
 enable-space-quota: false
 enable-security-group: false
 enable-unassign-security-group: true
